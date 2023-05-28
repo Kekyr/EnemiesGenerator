@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5e8098f981f7e3478e591f3274a850b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _enemyPrefab: {fileID: 1968476592218994, guid: 313ad0ef31f75b84f9f31c0528802fdd, type: 3}
+  _enemyPrefab: {fileID: 1011297833672582157, guid: 313ad0ef31f75b84f9f31c0528802fdd, type: 3}
   _delay: 2
 --- !u!4 &617690963
 Transform:

@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class EnemiesGenerator : MonoBehaviour
 {
-    [SerializeField] private GameObject _enemyPrefab;
+    [SerializeField] private Enemy _enemyPrefab;
     [SerializeField] private float _delay;
 
     private WaitForSeconds _waitForOneSeconds;
